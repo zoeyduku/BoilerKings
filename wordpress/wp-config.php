@@ -29,7 +29,7 @@ define('DB_USER', 'zoeyduku');
 define('DB_PASSWORD', 'P1ckl35');
 
 /** MySQL hostname */
-define('DB_HOST', 'https://github/zoeyduku/BoilerKings.git');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
